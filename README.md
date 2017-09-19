@@ -4,7 +4,7 @@
 
 目前使用到的框架如下：
 
-"appcompat-v7"           : 'com.android.support:appcompat-v7:23.3.0',
+            "appcompat-v7"           : 'com.android.support:appcompat-v7:23.3.0',
 
             "design"                 : 'com.android.support:design:23.3.0',
             
