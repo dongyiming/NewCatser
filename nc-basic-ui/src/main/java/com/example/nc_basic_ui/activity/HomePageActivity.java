@@ -28,7 +28,7 @@ public class HomePageActivity extends BaseActivity {
 
     @Override
     public void setRootView() {
-        setContentView(R.layout.activity_homepage);
+        setContentView(R.layout.'');
     }
 
     @Override
